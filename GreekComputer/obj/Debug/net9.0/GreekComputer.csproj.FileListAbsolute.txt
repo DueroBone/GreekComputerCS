@@ -1,0 +1,14 @@
+/Users/duelmood/Repos/GreekComputerCS/GreekComputer/bin/Debug/net9.0/GreekComputer
+/Users/duelmood/Repos/GreekComputerCS/GreekComputer/bin/Debug/net9.0/GreekComputer.deps.json
+/Users/duelmood/Repos/GreekComputerCS/GreekComputer/bin/Debug/net9.0/GreekComputer.runtimeconfig.json
+/Users/duelmood/Repos/GreekComputerCS/GreekComputer/bin/Debug/net9.0/GreekComputer.dll
+/Users/duelmood/Repos/GreekComputerCS/GreekComputer/bin/Debug/net9.0/GreekComputer.pdb
+/Users/duelmood/Repos/GreekComputerCS/GreekComputer/obj/Debug/net9.0/GreekComputer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/duelmood/Repos/GreekComputerCS/GreekComputer/obj/Debug/net9.0/GreekComputer.AssemblyInfoInputs.cache
+/Users/duelmood/Repos/GreekComputerCS/GreekComputer/obj/Debug/net9.0/GreekComputer.AssemblyInfo.cs
+/Users/duelmood/Repos/GreekComputerCS/GreekComputer/obj/Debug/net9.0/GreekComputer.csproj.CoreCompileInputs.cache
+/Users/duelmood/Repos/GreekComputerCS/GreekComputer/obj/Debug/net9.0/GreekComputer.dll
+/Users/duelmood/Repos/GreekComputerCS/GreekComputer/obj/Debug/net9.0/refint/GreekComputer.dll
+/Users/duelmood/Repos/GreekComputerCS/GreekComputer/obj/Debug/net9.0/GreekComputer.pdb
+/Users/duelmood/Repos/GreekComputerCS/GreekComputer/obj/Debug/net9.0/GreekComputer.genruntimeconfig.cache
+/Users/duelmood/Repos/GreekComputerCS/GreekComputer/obj/Debug/net9.0/ref/GreekComputer.dll
